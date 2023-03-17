@@ -51,8 +51,7 @@ Let's not forget about school, here's what I believe to be the most important th
     <li>I'm a freshman in High School, currently maintaining 4.0 GPA throughout the year</li>
     <li>Earned the opportunity to go to the State Solo & Ensemble band competition at the Oklahoma State campus, I'll put the results here.</li>
     <li>Won a trophy for getting the best score on a STEM test in the state at my grade level. (This was during the fall of 2021)</li>
-    <li>Best chess player in my class (BY FAR)</li>
-    <li>Nearly the only person in my grade that has an Android phone (android for life)</li>
+    <li>Best chess player in my class (Prove me wrong)</li>
   </ul>
   </details>
 

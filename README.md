@@ -19,8 +19,8 @@ I really like playing video games. Here's some that I really highlight and would
   <ul>
     <li>Chess <a href="https://chess.com/members/gsl4295">(My chess.com account.)</a></li>
     <li>Hogwarts Legacy (I just got it like a week ago, it's SO GOOD)</li>
-    <li>Minecraft (I mean, who doesn't enjoy playing it?)</li>
-    <li>Rocket League (I'm like Platinum 3 at the time of writing)</li>
+    <li>Minecraft</li>
+    <li>Rocket League (I'm Diamond 1 at the time of writing)</li>
   </ul>
 </details>
 
@@ -47,11 +47,11 @@ Let's not forget about school, here's what I believe to be the most important th
 <details>
   <summary>School Accomplishments</summary>
   <ul>
-    <li>Completed Elementary and Middle School</li>
     <li>I'm a freshman in High School, currently maintaining 4.0 GPA throughout the year</li>
-    <li>Earned the opportunity to go to the State Solo & Ensemble band competition at the Oklahoma State campus, I'll put the results here.</li>
+    <li>Earned the opportunity to go to the State Solo & Ensemble band competition at the Oklahoma State campus, UPDATE: We got a 2, meaning an excellent rating.</li>
     <li>Won a trophy for getting the best score on a STEM test in the state at my grade level. (This was during the fall of 2021)</li>
     <li>Best chess player in my class (Prove me wrong)</li>
+    <li>Earned my spot in the National Honor Society</li>
   </ul>
   </details>
 
